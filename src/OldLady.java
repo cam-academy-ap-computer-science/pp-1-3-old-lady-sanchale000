@@ -1,4 +1,19 @@
-
+/***
+ * Grading Comments:
+ * Excellent job.  Definitely got the idea that you can 
+ * reduce the typing and duplication by use of methods
+ *  Compiles and runs: 15/15
+ *  Output:  6/6
+ *  Consistency: 2/2 Clean, well-written, consistent.
+ *  Efficiency: 1/2 
+ *    You got the main idea.  You can use nesting of
+ *    methods within methods to further clean this up
+ *    and make it more efficient - you could also use
+ *    methods to not have to duplicate the 
+ *    'There was an old lady who swallowed a' and
+ *    'She swallowed the...' 
+ *  Overall, excellent effort 24/25
+ */
 public class OldLady {
 
 	public static void main(String[] args) {
